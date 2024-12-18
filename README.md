@@ -1,4 +1,4 @@
-# Repositorio de Problemas Resueltos de Programación Competitiva
+# Repositorio de Problemas Resueltos de Programación
 
 Aquí podran ver problemas que he ido resolviendo de distintas categorías:
 
