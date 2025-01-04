@@ -6,5 +6,6 @@ Aquí podran ver problemas que he ido resolviendo de distintas categorías:
 - Leetcode
 - Neetcode 
 - Problemas de *Taller de Programación B - CC4002*
+- Codeforces
 
 Más que nada a modo de pasatiempo y aprendizaje de algoritmos.
