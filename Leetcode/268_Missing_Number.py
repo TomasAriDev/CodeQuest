@@ -12,3 +12,5 @@ class Solution:
     
 # Usando el metodo de set 'issubset' es posible preguntar si
 # i esta en nums_, si no lo esta es muy facil saber cual es el que falta
+
+# ajustamos conflicto de git
